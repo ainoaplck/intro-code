@@ -1,0 +1,175 @@
+body {
+    background-color: #f4f6f8;
+    font-family: Open Sans, Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+#header {
+    display: flex; 
+    margin: 0 10%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    color: #526d82;
+    font-family: Open sans, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 37px;
+}
+
+img {
+    width: 44px;
+    height: auto;
+}
+
+#container {
+    margin: 0 10%;
+}
+
+h2 {
+    color: #526d82;
+}
+
+.intro {
+    color: #526d82;
+    text-align: justify;
+}
+
+#link {
+    color: #526d82;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+#link:hover {
+    color: #526d82;
+    font-weight: 700;
+    font-style: italic;
+}
+
+a {
+    color: #526d82;
+    font-style: italic;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #526d82;
+    font-weight: 700;
+    font-style: italic;
+}
+
+h3 {
+    color: #526d82;
+    font-family: Open sans, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 5%;
+}
+
+#viewer {
+    display: flex;
+}
+
+#timeline {
+    padding-top: 6em;
+    width: 200px;
+}
+
+#map {
+    width: 50%;
+    margin-left: 10%;
+    height: 800px;
+    color: #526d82;
+    font-family: Open sans, Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+
+    /* position: absolute;
+    right: 10%;
+    padding: 10% 0;
+    margin-top: 3.5%; */
+}
+
+/* .month {
+    color: #526d82;
+    font-size: 18px;
+    margin: 1em 0;
+    text-transform: uppercase;
+}
+
+.month:hover{
+    cursor: pointer;
+    color: #526d82;
+    font-size: 18px;
+    margin: 1em 0;
+    text-transform: uppercase;
+} */
+
+/* #Oktober, #November, #Dezember  {
+    color: lightgrey;
+    font-size: 18px;
+    margin: 1em 0;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+#Oktober:hover, #November:hover, #Dezember:hover {
+    color: lightgrey;
+    font-size: 18px;
+    margin: 1em 0;
+    text-transform: uppercase;
+    cursor: pointer;
+} */
+
+/* .nohover {
+    color: lightgrey;
+    font-size: 18px;
+    margin: 1em 0;
+    text-transform: uppercase;
+    cursor: pointer;
+} */
+
+.oktober, .november, .dezember {
+    color: lightgrey;
+    font-size: 18px;
+    margin: 1em 0;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+
+#Januar, #Februar, #März, #April, #Mai, #Juni, #Juli, #August, #September {
+    color: #526d82;
+    font-size: 18px;
+    padding: 0.5em 0;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+#cases {
+    color: #526d82;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 59%;
+    margin-left: 13%;
+    width: 10%;
+}
+
+/* #popup {
+    color: #526d82;
+    font-family: Open sans, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 37px
+} */
+
+.lesetext {
+    margin-right: 25%;
+    margin-left: 1%;
+    margin-top: 5%;
+    color: #526d82;
+    font-family: Open Sans, Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
